@@ -132,7 +132,7 @@ ARIMA, Holt-Winters, Python
 
 ##  Contact
 -  Email : **martinienj5@gmail.com**
--  LinkedIn : *(à ajouter)*
+-  LinkedIn : **www.linkedin.com/in/martinien-yao-93050124a**
 -  GitHub : **github.com/ton_username**
 
 ---
