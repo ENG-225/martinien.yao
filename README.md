@@ -10,8 +10,8 @@ Je conçois des solutions data pour **optimiser les processus métiers, fiabilis
 
 ##  Profil Data Scientist
 
--  Master 1 en **Statistique, Économétrie & Data Science** (en cours)
--  Solide base en **statistiques appliquées et économétrie**
+-  Master 2 en **Statistique, Économétrie & Data Science** (en cours)
+-  Solide base en **statistiques appliquées et économétrie, en developpement d'application via bibliothèque python comme streamlit ou django **
 -  Expérience en **projets Data professionnels en banque**
 -  Orientation **data-driven & automatisation**
 
@@ -31,11 +31,18 @@ Je conçois des solutions data pour **optimiser les processus métiers, fiabilis
 - Transformation de données (CSV → XML)
 - SQL / MySQL (requêtes analytiques)
 
+### Programmation & Développement d'application
+   -Python (Application créée avec la bibliothèque streamlit pour la conversion des fichiers excel en un bon format pour effectuer des virements bancaires sur le      compte des employés d'une entreprise )
+
 ###  Visualisation & Communication
 - Power BI (dashboards décisionnels)
 - Excel avancé
 - Restitution claire des résultats analytiques
 
+### Compétences IT
+ - Administrateur Microsoft Office 365
+ - Administrateur serveur PAPERCUT
+ - Bonne connaissance en Support IT
 ---
 
 ##  Projets Data Professionnels (Bancaire)
@@ -92,7 +99,8 @@ Power BI, Excel
 
 ###  Analyse du stress financier des étudiants  
 **Objectif :**  
-Étudier les facteurs explicatifs du stress financier à partir de données observées.
+Étudier les facteurs explicatifs du stress financier à partir de données observées (MASTER 1)
+Analyser l'effet ou l'impact des média sociaux sur l'équilibre de la santé mentale 
 
 **Méthodes & outils :**  
 Python, statistiques descriptives, analyse exploratoire
@@ -118,7 +126,7 @@ ARIMA, Holt-Winters, Python
 
 ##  Formation & Certification
 
--  **Master 1 – Statistique, Économétrie & Data Science** (INSSEDS)
+-  **Master 2 – Statistique, Économétrie & Data Science (en cours)** (INSSEDS)
 -  Licence en Sciences Économiques
 -  Certification **Power BI – De débutant à expérimenté** (Udemy)
 
